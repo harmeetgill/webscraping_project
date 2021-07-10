@@ -36,7 +36,7 @@ Job title and location features together achieved higher scores: CV scores were 
 The outcomes of these models report known trends when it comes to the job market - cities with a higher cost of living generate higher paying jobs.
 
 #### Limitations and future work
-Scraping resulted in a diverse list of locations. Such locations must be consolidated into perhaps counties or assigning each town, region or borough to the nearest city. This could be done by taking lists of all english regions and town, matching to scraped locations and assigning a county or city. A second limitation is the number of jobs scraped, as indicated my KNN's 100% accuracy with only two features taken as input. A third limitation is the number of features isolated from the job description; company name, company rating or sector could also have been included.
+Scraping resulted in a diverse list of locations. Such locations must be consolidated into perhaps counties or assigning each town, region or borough to the nearest city. This could be done by taking lists of all english regions and town, matching to scraped locations and assigning a county or city. A second limitation is the number of jobs scraped was indicated by KNN's 100% accuracy with only two features taken as input. A third limitation is the number of features isolated from the job description; company name, company rating or sector could also have been included.
 
 #### Project contents:
 **Data collection**<br>
